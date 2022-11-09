@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZDWwy8xGFC5z/KjOle9yD1Ri41o3qprEc0oXQiAPs0g=",
+  "Source": "CoffeeApp.Api",
+  "BasePath": "_content/CoffeeApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
